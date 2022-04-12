@@ -69,7 +69,7 @@ cat <<EOF >/etc/v2ray/config.json
 		"streamSettings": {
 			"network": "ws",
 			"wsSettings": {
-					"path": "/$UUID-vless"
+					"path": "/28a4b71c-670d-4fff-b82a-7b041deafa65-vless"
 				}
 			}
 		}
